@@ -76,14 +76,14 @@ See full logic in:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Screenshot](media/dashboard_screenshot.jpg)
+![Dashboard Screenshot](Media/dashboard_screenshot.jpg)
 
 ---
 
 ## 🎥 Dashboard Demo Video
 
 📽 Watch the full interactive walkthrough:  
-👉 `media/Dashboard_Demo.mp4`
+👉 `Media/Dashboard_Demo.mp4`
 
 ---
 
