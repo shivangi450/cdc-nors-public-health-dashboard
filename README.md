@@ -76,7 +76,7 @@ See full logic in:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Screenshot](Media/dashboard_screenshot.jpg)
+![Dashboard Screenshot](Media/dashboard_screenshot.jpeg)
 
 ---
 
