@@ -83,7 +83,9 @@ See full logic in:
 ## 🎥 Dashboard Demo Video
 
 📽 Watch the full interactive walkthrough:  
-👉 `Media/Dashboard_Demo.mp4`
+![Dashboard Demo](Media/Dashboard_Demo.mp4)
+
+
 
 ---
 
