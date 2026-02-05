@@ -80,10 +80,15 @@ See full logic in:
 
 ---
 
+
 ## 🎥 Dashboard Demo Video
 
-📽 Watch the full interactive walkthrough:  
-![Dashboard Demo](Media/Dashboard_Demo.mp4)
+Watch the full interactive walkthrough of the dashboard on YouTube:
+
+[![Watch the Demo](https://img.youtube.com/vi/Yv-9ihYHUuo/0.jpg)](https://youtu.be/Yv-9ihYHUuo)
+
+▶ Click the image above to view the demo
+
 
 
 
